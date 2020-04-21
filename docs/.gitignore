@@ -1,0 +1,5 @@
+_build
+_static
+_templates
+python_library_project_generator_github_workflow_test*
+modules.rst
